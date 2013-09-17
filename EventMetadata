@@ -1,0 +1,664 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<events>
+   <event>
+      <id>3000199873</id>
+      <status>submitted</status>
+      <name>Forbes on the 400: Rich getting richer</name>
+      <eventSubscribers>
+         <id>1063145</id>
+         <lockedEvent>false</lockedEvent>
+         <dateLastModified>2013-09-17T15:39:14</dateLastModified>
+         <dateLastModifiedDateTime>1379432354000</dateLastModifiedDateTime>
+         <videoSubscriber>
+            <id>200</id>
+            <role>producer</role>
+            <region>
+               <networkId>1</networkId>
+               <name>CNBC Us</name>
+            </region>
+            <subid>2511335</subid>
+            <lastAccessDate>2013-09-17T17:44:00</lastAccessDate>
+            <lastAccessDateTime>1379439840000</lastAccessDateTime>
+         </videoSubscriber>
+      </eventSubscribers>
+      <eventId>-1817239682</eventId>
+      <eventDate>2013-09-17T23:00:00</eventDate>
+      <eventDateTime>1379458800000</eventDateTime>
+      <lastModifiedDate>2013-09-17T15:44:13</lastModifiedDate>
+      <lastModifiedDateTime>1379432653000</lastModifiedDateTime>
+      <network>
+         <networkId>1</networkId>
+         <name>CNBC Us</name>
+      </network>
+      <eventMetadata>
+         <EventMetadata>
+            <UpdateHistory>
+               <Update>
+                  <Section>Producer</Section>
+               </Update>
+               <Update>
+                  <UpdateBy>200</UpdateBy>
+                  <UpdateOn>2013-09-16 14:51:26 -0400</UpdateOn>
+                  <EventStatus>scheduled</EventStatus>
+                  <Section>Producer</Section>
+               </Update>
+               <Update>
+                  <UpdateBy>200</UpdateBy>
+                  <UpdateOn>2013-09-17 11:27:28 -0400</UpdateOn>
+                  <EventStatus>scheduled</EventStatus>
+                  <Section>Producer</Section>
+               </Update>
+               <Update>
+                  <UpdateBy>200</UpdateBy>
+                  <UpdateOn>2013-09-17 11:28:50 -0400</UpdateOn>
+                  <EventStatus>scheduled</EventStatus>
+                  <Section>Producer</Section>
+               </Update>
+               <Update>
+                  <UpdateBy>2050</UpdateBy>
+                  <UpdateOn>2013-09-17 11:37:15 -0400</UpdateOn>
+                  <EventStatus>edited</EventStatus>
+                  <Section>Editor</Section>
+               </Update>
+               <Update>
+                  <UpdateBy>setAssetInfo-mpeg4_500000</UpdateBy>
+                  <UpdateOn>1379432241171</UpdateOn>
+                  <EventStatus>edited</EventStatus>
+                  <Section>AssetType=mpeg4_500000</Section>
+               </Update>
+               <Update>
+                  <UpdateBy>setAssetInfo-largeThumbnail</UpdateBy>
+                  <UpdateOn>1379432241113</UpdateOn>
+                  <EventStatus>edited</EventStatus>
+                  <Section>AssetType=largeThumbnail</Section>
+               </Update>
+               <Update>
+                  <UpdateBy>setAssetInfo-smallThumbnail</UpdateBy>
+                  <UpdateOn>1379432241121</UpdateOn>
+                  <EventStatus>edited</EventStatus>
+                  <Section>AssetType=smallThumbnail</Section>
+               </Update>
+               <Update>
+                  <UpdateBy>FtpStatusMessageListnerImpl-largeThumbnail,smallThumbnail,mpeg4_500000,</UpdateBy>
+                  <UpdateOn>2013-09-17 11:37:21 -0400</UpdateOn>
+                  <EventStatus>edited</EventStatus>
+                  <Section>Assets</Section>
+               </Update>
+               <Update>
+                  <UpdateBy>200</UpdateBy>
+                  <UpdateOn>2013-09-17 11:38:52 -0400</UpdateOn>
+                  <EventStatus>submitted</EventStatus>
+                  <Section>Producer</Section>
+               </Update>
+               <Update>
+                  <UpdateBy>SyndicationService</UpdateBy>
+                  <UpdateOn>2013-09-17 11:38:52 -0400</UpdateOn>
+                  <EventStatus>submitted</EventStatus>
+                  <Section>UsagePlans</Section>
+                  <Section>SyndicationLog</Section>
+               </Update>
+               <Update>
+                  <UpdateBy>setAssetInfo-FLV_432x240_30p_500K</UpdateBy>
+                  <UpdateOn>1379432564157</UpdateOn>
+                  <EventStatus>submitted</EventStatus>
+                  <Section>AssetType=FLV_432x240_30p_500K</Section>
+               </Update>
+               <Update>
+                  <UpdateBy>setAssetInfo-IPTV_H264_720x405_30p_1M</UpdateBy>
+                  <UpdateOn>1379432473876</UpdateOn>
+                  <EventStatus>submitted</EventStatus>
+                  <Section>AssetType=IPTV_H264_720x405_30p_1M</Section>
+               </Update>
+               <Update>
+                  <UpdateBy>setAssetInfo-SmartPhone_WM9_320x240_30p_190K</UpdateBy>
+                  <UpdateOn>1379432562808</UpdateOn>
+                  <EventStatus>submitted</EventStatus>
+                  <Section>AssetType=SmartPhone_WM9_320x240_30p_190K</Section>
+               </Update>
+               <Update>
+                  <UpdateBy>setAssetInfo-iPhone_H264_126K</UpdateBy>
+                  <UpdateOn>1379432468677</UpdateOn>
+                  <EventStatus>submitted</EventStatus>
+                  <Section>AssetType=iPhone_H264_126K</Section>
+               </Update>
+               <Update>
+                  <UpdateBy>setAssetInfo-iPhone_H264_480x270_25p_500K</UpdateBy>
+                  <UpdateOn>1379432472008</UpdateOn>
+                  <EventStatus>submitted</EventStatus>
+                  <Section>AssetType=iPhone_H264_480x270_25p_500K</Section>
+               </Update>
+               <Update>
+                  <UpdateBy>setAssetInfo-WMV_400x300_30p_500K</UpdateBy>
+                  <UpdateOn>1379432653411</UpdateOn>
+                  <EventStatus>submitted</EventStatus>
+                  <Section>AssetType=WMV_400x300_30p_500K</Section>
+               </Update>
+               <Update>
+                  <UpdateBy>setAssetInfo-WMV_400x300_15p_300K</UpdateBy>
+                  <UpdateOn>1379432471400</UpdateOn>
+                  <EventStatus>submitted</EventStatus>
+                  <Section>AssetType=WMV_400x300_15p_300K</Section>
+               </Update>
+               <Update>
+                  <UpdateBy>setAssetInfo-Blackberry_3GP_128K</UpdateBy>
+                  <UpdateOn>1379432562968</UpdateOn>
+                  <EventStatus>submitted</EventStatus>
+                  <Section>AssetType=Blackberry_3GP_128K</Section>
+               </Update>
+               <Update>
+                  <UpdateBy>200</UpdateBy>
+                  <UpdateOn>2013-09-17 11:39:13 -0400</UpdateOn>
+                  <EventStatus>submitted</EventStatus>
+                  <Section>Producer</Section>
+               </Update>
+               <Update>
+                  <UpdateBy>FtpStatusMessageListnerImpl-iPhone_H264_126K,</UpdateBy>
+                  <UpdateOn>2013-09-17 11:41:08 -0400</UpdateOn>
+                  <EventStatus>submitted</EventStatus>
+                  <Section>Assets</Section>
+               </Update>
+               <Update>
+                  <UpdateBy>FtpStatusMessageListnerImpl-WMV_400x300_15p_300K,</UpdateBy>
+                  <UpdateOn>2013-09-17 11:41:11 -0400</UpdateOn>
+                  <EventStatus>submitted</EventStatus>
+                  <Section>Assets</Section>
+               </Update>
+               <Update>
+                  <UpdateBy>FtpStatusMessageListnerImpl-iPhone_H264_480x270_25p_500K,</UpdateBy>
+                  <UpdateOn>2013-09-17 11:41:12 -0400</UpdateOn>
+                  <EventStatus>submitted</EventStatus>
+                  <Section>Assets</Section>
+               </Update>
+               <Update>
+                  <UpdateBy>FtpStatusMessageListnerImpl-IPTV_H264_720x405_30p_1M,</UpdateBy>
+                  <UpdateOn>2013-09-17 11:41:13 -0400</UpdateOn>
+                  <EventStatus>submitted</EventStatus>
+                  <Section>Assets</Section>
+               </Update>
+               <Update>
+                  <UpdateBy>SyndicationService</UpdateBy>
+                  <UpdateOn>2013-09-17 11:41:13 -0400</UpdateOn>
+                  <EventStatus>submitted</EventStatus>
+                  <Section>UsagePlans</Section>
+                  <Section>SyndicationLog</Section>
+               </Update>
+               <Update>
+                  <UpdateBy>FtpStatusMessageListnerImpl-SmartPhone_WM9_320x240_30p_190K,</UpdateBy>
+                  <UpdateOn>2013-09-17 11:42:42 -0400</UpdateOn>
+                  <EventStatus>submitted</EventStatus>
+                  <Section>Assets</Section>
+               </Update>
+               <Update>
+                  <UpdateBy>FtpStatusMessageListnerImpl-Blackberry_3GP_128K,</UpdateBy>
+                  <UpdateOn>2013-09-17 11:42:42 -0400</UpdateOn>
+                  <EventStatus>submitted</EventStatus>
+                  <Section>Assets</Section>
+               </Update>
+               <Update>
+                  <UpdateBy>FtpStatusMessageListnerImpl-FLV_432x240_30p_500K,</UpdateBy>
+                  <UpdateOn>2013-09-17 11:42:44 -0400</UpdateOn>
+                  <EventStatus>submitted</EventStatus>
+                  <Section>Assets</Section>
+               </Update>
+               <Update>
+                  <UpdateBy>SyndicationService</UpdateBy>
+                  <UpdateOn>2013-09-17 11:42:44 -0400</UpdateOn>
+                  <EventStatus>submitted</EventStatus>
+                  <Section>UsagePlans</Section>
+                  <Section>SyndicationLog</Section>
+               </Update>
+               <Update>
+                  <UpdateBy>FtpStatusMessageListnerImpl-WMV_400x300_30p_500K,</UpdateBy>
+                  <UpdateOn>2013-09-17 11:44:13 -0400</UpdateOn>
+                  <EventStatus>submitted</EventStatus>
+                  <Section>Assets</Section>
+               </Update>
+               <Update>
+                  <UpdateBy>SyndicationService</UpdateBy>
+                  <UpdateOn>2013-09-17 11:44:13 -0400</UpdateOn>
+                  <EventStatus>submitted</EventStatus>
+                  <Section>UsagePlans</Section>
+                  <Section>SyndicationLog</Section>
+               </Update>
+            </UpdateHistory>
+            <Version>1</Version>
+            <Editor>
+               <VIDEO_START_TIME />
+               <VIDEO_END_TIME />
+               <VIDEO_DURATION>350933</VIDEO_DURATION>
+               <VIDEO_NAME_SRC>\Source\3ED2-KR-ForbesExtra0917.mp4</VIDEO_NAME_SRC>
+               <VIDEO_NAME_SITE>\Source\3ED2-KR-ForbesExtra0917_L.mp4</VIDEO_NAME_SITE>
+               <VIDEO_THUMBNAIL_400_300>\Thumbnail\3ED2-KR-ForbesExtra0917.jpg</VIDEO_THUMBNAIL_400_300>
+               <VIDEO_THUMBNAIL_120_90>\Thumbnail\3ED2-KR-ForbesExtra0917_sm.jpg</VIDEO_THUMBNAIL_120_90>
+            </Editor>
+            <Assets>
+               <Asset>
+                  <AssetType>mpeg4_500000</AssetType>
+                  <Bitrate>500000</Bitrate>
+                  <Format>mpeg4</Format>
+                  <UploadURL>ftp://CNBC@cnbc.upload.akamai.com@64.210.197.20/23727/mp4/VCPS/Y2013/M09D17/3000199873/3ED2-KR-ForbesExtra0917_L.mp4</UploadURL>
+                  <Hash>3a0e912fd6ad98986f212198c738939c</Hash>
+                  <Size>23474071</Size>
+                  <FTP>
+                     <RequestDT>2013-09-17 11:37:15 -0400</RequestDT>
+                     <ResponseDT>2013-09-17 11:37:21 -0400</ResponseDT>
+                  </FTP>
+                  <URL>
+                     <Protocol>Streaming</Protocol>
+                     <Value>http://syndication.cnbc.com/vcps/media/content?id=MzAwMDE5OTg3MwptcGVnNF81MDAwMDAKU3RyZWFtaW5n&amp;UserName=cmsguest@cnbc.com&amp;key=NA</Value>
+                     <Callback>&lt;?xml version="1.0" encoding="utf-8"?&gt;
+&lt;playlist&gt;
+  &lt;choice&gt;
+    &lt;url&gt;http://ad.doubleclick.net/pfadx/nbcu.cnbc/aolvideo;!category=cnbc;site=cnbc;sect=aolvideo;show=The+Kudlow+Report;videoid=3000199873;sz=300x240;ord=&amp;lt;rand&amp;gt;&lt;/url&gt;
+    &lt;title&gt;Ad Media&lt;/title&gt;
+    &lt;copyright&gt;(c) CNBCNews.com&lt;/copyright&gt;
+  &lt;/choice&gt;
+  &lt;choice&gt;
+    &lt;url&gt;rtmp://cp34825.edgefcs.net/ondemand/?auth=NA&amp;amp;aifp=V01&amp;amp;slist=mp4:csmp4/VCPS/Y2013/M09D17/3000199873/3ED2-KR-ForbesExtra0917_L&amp;lt;break&amp;gt;mp4:csmp4/VCPS/Y2013/M09D17/3000199873/3ED2-KR-ForbesExtra0917_L&lt;/url&gt;
+    &lt;customFields&gt;
+      &lt;customField&gt;
+        &lt;title&gt;Display Size&lt;/title&gt;
+        &lt;value&gt;n/a&lt;/value&gt;
+      &lt;/customField&gt;
+    &lt;/customFields&gt;
+    &lt;title&gt;Forbes+on+the+400&lt;/title&gt;
+    &lt;description&gt;CNBC%27s+Larry+Kudlow+discusses+the+new+Forbes+400+list%2C+released+this+week.&lt;/description&gt;
+    &lt;copyright&gt;(c) CNBCVideo Media&lt;/copyright&gt;
+  &lt;/choice&gt;
+&lt;/playlist&gt;</Callback>
+                  </URL>
+                  <URL>
+                     <Protocol>Download</Protocol>
+                     <Value>http://pdl.iphone.cnbc.com/VCPS/Y2013/M09D17/3000199873/3ED2-KR-ForbesExtra0917_L.mp4</Value>
+                  </URL>
+               </Asset>
+               <Asset>
+                  <AssetType>largeThumbnail</AssetType>
+                  <Bitrate>0</Bitrate>
+                  <Format>jpeg</Format>
+                  <UploadURL>ftp://VCPSUsr@cnbcthumbs.upload.akamai.com@64.210.197.20/29386/VCPS/Y2013/M09D17/3000199873/3ED2-KR-ForbesExtra0917.jpg</UploadURL>
+                  <Hash>a4c4abaf52f32318a96d4d1962bb2187</Hash>
+                  <Size>25640</Size>
+                  <FTP>
+                     <RequestDT>2013-09-17 11:37:15 -0400</RequestDT>
+                     <ResponseDT>2013-09-17 11:37:21 -0400</ResponseDT>
+                  </FTP>
+                  <URL>
+                     <Protocol>Streaming</Protocol>
+                     <Value>http://thumbnails.cnbc.com/VCPS/Y2013/M09D17/3000199873/3ED2-KR-ForbesExtra0917.jpg</Value>
+                  </URL>
+                  <URL>
+                     <Protocol>Download_large</Protocol>
+                     <Value>ftp://cnbcthumbs.upload.akamai.com/29386/VCPS/Y2013/M09D17/3000199873/3ED2-KR-ForbesExtra0917.jpg</Value>
+                  </URL>
+               </Asset>
+               <Asset>
+                  <AssetType>smallThumbnail</AssetType>
+                  <Bitrate>0</Bitrate>
+                  <Format>jpeg</Format>
+                  <UploadURL>ftp://VCPSUsr@cnbcthumbs.upload.akamai.com@64.210.197.20/29386/VCPS/Y2013/M09D17/3000199873/3ED2-KR-ForbesExtra0917_sm.jpg</UploadURL>
+                  <Hash>3a8be358cec25fddb0de5b1ac24e280d</Hash>
+                  <Size>4206</Size>
+                  <FTP>
+                     <RequestDT>2013-09-17 11:37:15 -0400</RequestDT>
+                     <ResponseDT>2013-09-17 11:37:21 -0400</ResponseDT>
+                  </FTP>
+                  <URL>
+                     <Protocol>http</Protocol>
+                     <Value>http://thumbnails.cnbc.com/VCPS/Y2013/M09D17/3000199873/3ED2-KR-ForbesExtra0917_sm.jpg</Value>
+                  </URL>
+                  <URL>
+                     <Protocol>Download_small</Protocol>
+                     <Value>ftp://cnbcthumbs.upload.akamai.com/29386/VCPS/Y2013/M09D17/3000199873/3ED2-KR-ForbesExtra0917_sm.jpg</Value>
+                  </URL>
+               </Asset>
+               <Asset>
+                  <AssetType>FLV_432x240_30p_500K</AssetType>
+                  <Bitrate>500000</Bitrate>
+                  <Format>flv</Format>
+                  <UploadURL>ftp://CNBC@cnbc.upload.akamai.com@64.210.197.20/23727/flash/VCPS/Y2013/M09D17/3000199873/3ED2-KR-ForbesExtra0917_FLV_432x240_30p_500K.flv</UploadURL>
+                  <Hash>1974842482216b95764cee53b0b15bed</Hash>
+                  <Size>26917025</Size>
+                  <Transcoding>
+                     <RequestDT>2013-09-17 11:38:52 -0400</RequestDT>
+                     <ResponseDT>2013-09-17 11:42:39 -0400</ResponseDT>
+                     <AssetPath>\Target\3ED2-KR-ForbesExtra0917_FLV_432x240_30p_500K.flv</AssetPath>
+                  </Transcoding>
+                  <FTP>
+                     <RequestDT>2013-09-17 11:42:39 -0400</RequestDT>
+                     <ResponseDT>2013-09-17 11:42:44 -0400</ResponseDT>
+                  </FTP>
+                  <URL>
+                     <Protocol>Streaming</Protocol>
+                     <Value>http://syndication.cnbc.com/vcps/media/content?id=MzAwMDE5OTg3MwpGTFZfNDMyeDI0MF8zMHBfNTAwSwpTdHJlYW1pbmc&amp;UserName=cmsguest@cnbc.com&amp;key=NA</Value>
+                     <Callback>&lt;?xml version="1.0" encoding="utf-8"?&gt;
+&lt;playlist&gt;
+  &lt;choice&gt;
+    &lt;url&gt;http://ad.doubleclick.net/pfadx/nbcu.cnbc/aolvideo;!category=cnbc;site=cnbc;sect=aolvideo;show=The+Kudlow+Report;videoid=3000199873;sz=300x240;ord=&amp;lt;rand&amp;gt;&lt;/url&gt;
+    &lt;title&gt;Ad Media&lt;/title&gt;
+    &lt;copyright&gt;(c) CNBCNews.com&lt;/copyright&gt;
+  &lt;/choice&gt;
+  &lt;choice&gt;
+    &lt;url&gt;rtmp://cp34825.edgefcs.net/ondemand/?auth=NA&amp;amp;aifp=V01&amp;amp;slist=csflash/VCPS/Y2013/M09D17/3000199873/3ED2-KR-ForbesExtra0917_FLV_432x240_30p_500K&amp;lt;break&amp;gt;csflash/VCPS/Y2013/M09D17/3000199873/3ED2-KR-ForbesExtra0917_FLV_432x240_30p_500K&lt;/url&gt;
+    &lt;customFields&gt;
+      &lt;customField&gt;
+        &lt;title&gt;Display Size&lt;/title&gt;
+        &lt;value&gt;n/a&lt;/value&gt;
+      &lt;/customField&gt;
+    &lt;/customFields&gt;
+    &lt;title&gt;Forbes+on+the+400%3A+Rich+getting+richer&lt;/title&gt;
+    &lt;description&gt;CNBC%27s+Larry+Kudlow+discusses+the+new+Forbes+400+list%2C+released+this+week.+And+yes%2C+the+rich+are+getting+richer.&lt;/description&gt;
+    &lt;copyright&gt;(c) CNBCVideo Media&lt;/copyright&gt;
+  &lt;/choice&gt;
+&lt;/playlist&gt;</Callback>
+                  </URL>
+                  <URL>
+                     <Protocol>Download</Protocol>
+                     <Value>ftp://cnbc.upload.akamai.com/23727/flash/VCPS/Y2013/M09D17/3000199873/3ED2-KR-ForbesExtra0917_FLV_432x240_30p_500K.flv</Value>
+                  </URL>
+               </Asset>
+               <Asset>
+                  <AssetType>IPTV_H264_720x405_30p_1M</AssetType>
+                  <Bitrate>1100000</Bitrate>
+                  <Format>mpeg4</Format>
+                  <UploadURL>ftp://CNBC@cnbc.upload.akamai.com@64.210.197.20/23727/mp4/VCPS/Y2013/M09D17/3000199873/3ED2-KR-ForbesExtra0917_H264_720x405_30p_1M.mp4</UploadURL>
+                  <Hash>30098085d56604eef220a90c9dc8c7cc</Hash>
+                  <Size>46827148</Size>
+                  <Transcoding>
+                     <RequestDT>2013-09-17 11:38:52 -0400</RequestDT>
+                     <ResponseDT>2013-09-17 11:41:05 -0400</ResponseDT>
+                     <AssetPath>\Target\3ED2-KR-ForbesExtra0917_H264_720x405_30p_1M.mp4</AssetPath>
+                  </Transcoding>
+                  <FTP>
+                     <RequestDT>2013-09-17 11:41:05 -0400</RequestDT>
+                     <ResponseDT>2013-09-17 11:41:13 -0400</ResponseDT>
+                  </FTP>
+                  <URL>
+                     <Protocol>Download</Protocol>
+                     <Value>http://pdl.iphone.cnbc.com/VCPS/Y2013/M09D17/3000199873/3ED2-KR-ForbesExtra0917_H264_720x405_30p_1M.mp4</Value>
+                  </URL>
+               </Asset>
+               <Asset>
+                  <AssetType>SmartPhone_WM9_320x240_30p_190K</AssetType>
+                  <Bitrate>200000</Bitrate>
+                  <Format>msmedia</Format>
+                  <UploadURL>ftp://CNBC@cnbc.upload.akamai.com@64.210.197.20/23727/mp4/VCPS/Y2013/M09D17/3000199873/3ED2-KR-ForbesExtra0917_WM9_320x240_30p_190K.wmv</UploadURL>
+                  <Hash>98d5b514daf3bb6cb7d1b76ecc3ca1ee</Hash>
+                  <Size>9891115</Size>
+                  <Transcoding>
+                     <RequestDT>2013-09-17 11:38:52 -0400</RequestDT>
+                     <ResponseDT>2013-09-17 11:42:39 -0400</ResponseDT>
+                     <AssetPath>\Target\3ED2-KR-ForbesExtra0917_WM9_320x240_30p_190K.wmv</AssetPath>
+                  </Transcoding>
+                  <FTP>
+                     <RequestDT>2013-09-17 11:42:39 -0400</RequestDT>
+                     <ResponseDT>2013-09-17 11:42:42 -0400</ResponseDT>
+                  </FTP>
+                  <URL>
+                     <Protocol>Download</Protocol>
+                     <Value>http://pdl.iphone.cnbc.com/VCPS/Y2013/M09D17/3000199873/3ED2-KR-ForbesExtra0917_WM9_320x240_30p_190K.wmv</Value>
+                  </URL>
+               </Asset>
+               <Asset>
+                  <AssetType>iPhone_H264_126K</AssetType>
+                  <Bitrate>200000</Bitrate>
+                  <Format>mpeg4</Format>
+                  <UploadURL>ftp://CNBC@cnbc.upload.akamai.com@64.210.197.20/23727/mp4/VCPS/Y2013/M09D17/3000199873/3ED2-KR-ForbesExtra0917_H264_126K.mp4</UploadURL>
+                  <Hash>d3b77dafbe0881249d4ad2c0243e6b20</Hash>
+                  <Size>7597925</Size>
+                  <Transcoding>
+                     <RequestDT>2013-09-17 11:38:52 -0400</RequestDT>
+                     <ResponseDT>2013-09-17 11:41:05 -0400</ResponseDT>
+                     <AssetPath>\Target\3ED2-KR-ForbesExtra0917_H264_126K.mp4</AssetPath>
+                  </Transcoding>
+                  <FTP>
+                     <RequestDT>2013-09-17 11:41:05 -0400</RequestDT>
+                     <ResponseDT>2013-09-17 11:41:08 -0400</ResponseDT>
+                  </FTP>
+                  <URL>
+                     <Protocol>Download</Protocol>
+                     <Value>http://pdl.iphone.cnbc.com/VCPS/Y2013/M09D17/3000199873/3ED2-KR-ForbesExtra0917_H264_126K.mp4</Value>
+                  </URL>
+               </Asset>
+               <Asset>
+                  <AssetType>iPhone_H264_480x270_25p_500K</AssetType>
+                  <Bitrate>600000</Bitrate>
+                  <Format>mpeg4</Format>
+                  <UploadURL>ftp://CNBC@cnbc.upload.akamai.com@64.210.197.20/23727/mp4/VCPS/Y2013/M09D17/3000199873/3ED2-KR-ForbesExtra0917_H264_480x270_25p_500K.mp4</UploadURL>
+                  <Hash>aa591d3730dded16c96adb41518cd9b1</Hash>
+                  <Size>22841155</Size>
+                  <Transcoding>
+                     <RequestDT>2013-09-17 11:38:52 -0400</RequestDT>
+                     <ResponseDT>2013-09-17 11:41:06 -0400</ResponseDT>
+                     <AssetPath>\Target\3ED2-KR-ForbesExtra0917_H264_480x270_25p_500K.mp4</AssetPath>
+                  </Transcoding>
+                  <FTP>
+                     <RequestDT>2013-09-17 11:41:06 -0400</RequestDT>
+                     <ResponseDT>2013-09-17 11:41:12 -0400</ResponseDT>
+                  </FTP>
+                  <URL>
+                     <Protocol>Download</Protocol>
+                     <Value>http://pdl.iphone.cnbc.com/VCPS/Y2013/M09D17/3000199873/3ED2-KR-ForbesExtra0917_H264_480x270_25p_500K.mp4</Value>
+                  </URL>
+               </Asset>
+               <Asset>
+                  <AssetType>WMV_400x300_30p_500K</AssetType>
+                  <Bitrate>500000</Bitrate>
+                  <Format>msmedia</Format>
+                  <UploadURL>ftp://CNBC@cnbc.upload.akamai.com@64.210.197.20/23727/cnbc_vid/VCPS/Y2013/M09D17/3000199873/3ED2-KR-ForbesExtra0917_WM_400x300_30p_500K.wmv</UploadURL>
+                  <Hash>312704fddf65a1767e55d72eb0169383</Hash>
+                  <Size>21472288</Size>
+                  <Transcoding>
+                     <RequestDT>2013-09-17 11:38:52 -0400</RequestDT>
+                     <ResponseDT>2013-09-17 11:44:11 -0400</ResponseDT>
+                     <AssetPath>\Target\3ED2-KR-ForbesExtra0917_WM_400x300_30p_500K.wmv</AssetPath>
+                  </Transcoding>
+                  <FTP>
+                     <RequestDT>2013-09-17 11:44:11 -0400</RequestDT>
+                     <ResponseDT>2013-09-17 11:44:13 -0400</ResponseDT>
+                  </FTP>
+                  <URL>
+                     <Protocol>Streaming</Protocol>
+                     <Value>http://syndication.cnbc.com/vcps/media/content?id=MzAwMDE5OTg3MwpXTVZfNDAweDMwMF8zMHBfNTAwSwpTdHJlYW1pbmc&amp;UserName=cmsguest@cnbc.com&amp;key=NA</Value>
+                     <Callback>&lt;asx version="3.0"&gt;
+	&lt;param name="Encoding" value="iso-8859-1"/&gt;
+	&lt;entry&gt;
+		&lt;title&gt;Forbes+on+the+400%3A+Rich+getting+richer&lt;/title&gt;
+		&lt;abstract&gt;CNBC%27s+Larry+Kudlow+discusses+the+new+Forbes+400+list%2C+released+this+week.+And+yes%2C+the+rich+are+getting+richer.&lt;/abstract&gt;
+		&lt;copyright&gt;(c) CNBCVideo Media&lt;/copyright&gt;
+		&lt;ref href="http://a1098.v31494f.c31494.g.vm.akamaistream.net/7/1098/31494/v001/cnbc.download.akamai.com/23727/cnbc_vid/VCPS/Y2013/M09D17/3000199873/3ED2-KR-ForbesExtra0917_WM_400x300_30p_500K.wmv?auth=caEb0aRbgdyb1bvcmdScXdmaUbzcqaXbtaV-bsohJn-bWG-nwnmKuq&amp;aifp=v001"/&gt;
+		&lt;param name="Display Size" value="n/a"/&gt;
+	&lt;/entry&gt;
+&lt;/asx&gt;</Callback>
+                  </URL>
+                  <URL>
+                     <Protocol>Download</Protocol>
+                     <Value>ftp://cnbc.upload.akamai.com/23727/cnbc_vid/VCPS/Y2013/M09D17/3000199873/3ED2-KR-ForbesExtra0917_WM_400x300_30p_500K.wmv</Value>
+                  </URL>
+               </Asset>
+               <Asset>
+                  <AssetType>WMV_400x300_15p_300K</AssetType>
+                  <Bitrate>300000</Bitrate>
+                  <Format>msmedia</Format>
+                  <UploadURL>ftp://CNBC@cnbc.upload.akamai.com@64.210.197.20/23727/cnbc_vid/VCPS/Y2013/M09D17/3000199873/3ED2-KR-ForbesExtra0917_WM9_400x300_15p_300K.wmv</UploadURL>
+                  <Hash>6db341964b10021a25fe0824398f1f2a</Hash>
+                  <Size>13591890</Size>
+                  <Transcoding>
+                     <RequestDT>2013-09-17 11:38:52 -0400</RequestDT>
+                     <ResponseDT>2013-09-17 11:41:06 -0400</ResponseDT>
+                     <AssetPath>\Target\3ED2-KR-ForbesExtra0917_WM9_400x300_15p_300K.wmv</AssetPath>
+                  </Transcoding>
+                  <FTP>
+                     <RequestDT>2013-09-17 11:41:06 -0400</RequestDT>
+                     <ResponseDT>2013-09-17 11:41:11 -0400</ResponseDT>
+                  </FTP>
+                  <URL>
+                     <Protocol>Streaming</Protocol>
+                     <Value>http://syndication.cnbc.com/vcps/media/content?id=MzAwMDE5OTg3MwpXTVZfNDAweDMwMF8xNXBfMzAwSwpTdHJlYW1pbmc&amp;UserName=cmsguest@cnbc.com&amp;key=NA</Value>
+                     <Callback>&lt;asx version="3.0"&gt;
+	&lt;param name="Encoding" value="iso-8859-1"/&gt;
+	&lt;entry&gt;
+		&lt;title&gt;Forbes+on+the+400%3A+Rich+getting+richer&lt;/title&gt;
+		&lt;abstract&gt;CNBC%27s+Larry+Kudlow+discusses+the+new+Forbes+400+list%2C+released+this+week.+And+yes%2C+the+rich+are+getting+richer.&lt;/abstract&gt;
+		&lt;copyright&gt;(c) CNBCVideo Media&lt;/copyright&gt;
+		&lt;ref href="http://a1549.v314947.c31494.g.vm.akamaistream.net/7/1549/31494/v001/cnbc.download.akamai.com/23727/cnbc_vid/VCPS/Y2013/M09D17/3000199873/3ED2-KR-ForbesExtra0917_WM9_400x300_15p_300K.wmv?auth=caEcEa.cfccaWa0cVcCdkcQbic_dicccoda-bsohGx-bWG-lwmnJto&amp;aifp=v001"/&gt;
+		&lt;param name="Display Size" value="n/a"/&gt;
+	&lt;/entry&gt;
+&lt;/asx&gt;</Callback>
+                  </URL>
+                  <URL>
+                     <Protocol>Download</Protocol>
+                     <Value>ftp://cnbc.upload.akamai.com/23727/cnbc_vid/VCPS/Y2013/M09D17/3000199873/3ED2-KR-ForbesExtra0917_WM9_400x300_15p_300K.wmv</Value>
+                  </URL>
+               </Asset>
+               <Asset>
+                  <AssetType>Blackberry_3GP_128K</AssetType>
+                  <Bitrate>200000</Bitrate>
+                  <Format>3gp</Format>
+                  <UploadURL>ftp://CNBC@cnbc.upload.akamai.com@64.210.197.20/23727/mp4/VCPS/Y2013/M09D17/3000199873/3ED2-KR-ForbesExtra0917_128k.3gp</UploadURL>
+                  <Hash>b2e5c0fac9c40c8f514db4d8073fdaf7</Hash>
+                  <Size>7901862</Size>
+                  <Transcoding>
+                     <RequestDT>2013-09-17 11:38:52 -0400</RequestDT>
+                     <ResponseDT>2013-09-17 11:42:39 -0400</ResponseDT>
+                     <AssetPath>\Target\3ED2-KR-ForbesExtra0917_128k.3gp</AssetPath>
+                  </Transcoding>
+                  <FTP>
+                     <RequestDT>2013-09-17 11:42:39 -0400</RequestDT>
+                     <ResponseDT>2013-09-17 11:42:42 -0400</ResponseDT>
+                  </FTP>
+                  <URL>
+                     <Protocol>Download</Protocol>
+                     <Value>rtsp://rtsp.bb.cnbc.com/VCPS/Y2013/M09D17/3000199873/3ED2-KR-ForbesExtra0917_128k.3gp</Value>
+                  </URL>
+               </Asset>
+            </Assets>
+            <SyndicationLog>
+               <Syndication>
+                  <Date>17-Sep-2013 11:38:52:412</Date>
+                  <Operation>
+                     <Action>ADD</Action>
+                     <PartnerId>8000004</PartnerId>
+                  </Operation>
+               </Syndication>
+               <Syndication>
+                  <Date>17-Sep-2013 11:39:13:922</Date>
+                  <Operation>
+                     <Action>MODIFY</Action>
+                     <PartnerId>8000004</PartnerId>
+                  </Operation>
+               </Syndication>
+               <Syndication>
+                  <Date>17-Sep-2013 11:41:08:765</Date>
+                  <Operation>
+                     <Action>MODIFY</Action>
+                     <PartnerId>8000004</PartnerId>
+                  </Operation>
+               </Syndication>
+               <Syndication>
+                  <Date>17-Sep-2013 11:41:11:495</Date>
+                  <Operation>
+                     <Action>MODIFY</Action>
+                     <PartnerId>8000004</PartnerId>
+                  </Operation>
+               </Syndication>
+               <Syndication>
+                  <Date>17-Sep-2013 11:41:12:097</Date>
+                  <Operation>
+                     <Action>MODIFY</Action>
+                     <PartnerId>8000004</PartnerId>
+                  </Operation>
+               </Syndication>
+               <Syndication>
+                  <Date>17-Sep-2013 11:41:13:974</Date>
+                  <Operation>
+                     <Action>MODIFY</Action>
+                     <PartnerId>8000004</PartnerId>
+                  </Operation>
+                  <Operation>
+                     <Action>ADD</Action>
+                     <PartnerId>8000005</PartnerId>
+                  </Operation>
+               </Syndication>
+               <Syndication>
+                  <Date>17-Sep-2013 11:42:42:908</Date>
+                  <Operation>
+                     <Action>MODIFY</Action>
+                     <PartnerId>8000005</PartnerId>
+                     <PartnerId>8000004</PartnerId>
+                  </Operation>
+               </Syndication>
+               <Syndication>
+                  <Date>17-Sep-2013 11:42:43:080</Date>
+                  <Operation>
+                     <Action>MODIFY</Action>
+                     <PartnerId>8000005</PartnerId>
+                     <PartnerId>8000004</PartnerId>
+                  </Operation>
+               </Syndication>
+               <Syndication>
+                  <Date>17-Sep-2013 11:42:44:266</Date>
+                  <Operation>
+                     <Action>MODIFY</Action>
+                     <PartnerId>8000005</PartnerId>
+                     <PartnerId>8000004</PartnerId>
+                  </Operation>
+                  <Operation>
+                     <Action>ADD</Action>
+                     <PartnerId>8000003</PartnerId>
+                  </Operation>
+               </Syndication>
+               <Syndication>
+                  <Date>17-Sep-2013 11:44:13:585</Date>
+                  <Operation>
+                     <Action>MODIFY</Action>
+                     <PartnerId>8000005</PartnerId>
+                     <PartnerId>8000004</PartnerId>
+                     <PartnerId>8000003</PartnerId>
+                  </Operation>
+                  <Operation>
+                     <Action>ADD</Action>
+                     <PartnerId>8000006</PartnerId>
+                     <PartnerId>8000002</PartnerId>
+                  </Operation>
+               </Syndication>
+            </SyndicationLog>
+            <Producer>
+               <EVENT_NAME>Forbes on the 400: Rich getting richer</EVENT_NAME>
+               <SHORT_EVENT_NAME />
+               <EVENT_COMMENT />
+               <AIR_DATE>09/17/2013</AIR_DATE>
+               <AIR_TIME>19:00:00</AIR_TIME>
+               <GUESTS />
+               <PROGRAM>The Kudlow Report</PROGRAM>
+               <SEGMENT />
+               <DESCRIPTION>CNBC's Larry Kudlow discusses the new Forbes 400 list, released this week. And yes, the rich are getting richer.</DESCRIPTION>
+               <SHORT_DESCRIPTION />
+               <PAGE_TARGET />
+               <AD_TAG />
+               <OMNITURE />
+               <TRANSCRIPT />
+               <AIR_NETWORK>CNBC Us</AIR_NETWORK>
+               <TALENTS />
+               <TICKERS />
+               <PARTNERS>
+                  <PARTNER>8000006</PARTNER>
+                  <PARTNER>8000005</PARTNER>
+                  <PARTNER>8000004</PARTNER>
+                  <PARTNER>8000003</PARTNER>
+                  <PARTNER>8000002</PARTNER>
+               </PARTNERS>
+               <PRIORITY>1</PRIORITY>
+            </Producer>
+            <ProducerChangeTimeStamp>1379432353904</ProducerChangeTimeStamp>
+            <UsagePlans>
+               <Plan>CNBCNews.com Website</Plan>
+               <Plan>CNBC Business Video</Plan>
+               <Plan>CNBCNews.com Direct</Plan>
+               <Plan>IPTV_PDL</Plan>
+               <Plan>MobilePhones</Plan>
+            </UsagePlans>
+         </EventMetadata>
+      </eventMetadata>
+   </event>
+</events>
